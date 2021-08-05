@@ -1,0 +1,12 @@
+TIPOGRAFIA PARA EL TITULO
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Megrim&family=Monoton&family=Zen+Loop&display=swap" rel="stylesheet">
+
+font-family: 'Megrim', cursive;
+
+
+TIPOGRAFIA PARA LA LETRA EN GENERAL 
+
+font-family: 'Zen Loop', cursive;
